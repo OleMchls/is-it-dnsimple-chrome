@@ -6,7 +6,8 @@
   "homepage_url": "https://dnsimple.com",
   "description": "Always know if it resolves awesome",
   "permissions": [
-    "history"
+    "history",
+    "https://isitdnsimple.com/"
   ],
   "background": {
     "scripts": ["background.js"],
